@@ -12,13 +12,13 @@
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDXOwq6ILJPrYlds5oiwSXi%2FRent-a-Scooter-MockUp%3Fnode-id%3D101%253A59%26scaling%3Dmin-zoom%26page-id%3D5%253A32%26starting-point-node-id%3D101%253A59" allowfullscreen></iframe>
 
 **Demo of Prototype 1:
-<iframe width="560" height="315" src="https://youtu.be/embed/CRii6Jzr-lY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CRii6Jzr-lY" title="Map App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Demo of Prototype 2:
-<iframe width="560" height="315" src="https://youtu.be/embed/kprcl29nk_A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kprcl29nk_A" title="Commute Times" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Demo of Prototype 3:
-<iframe width="560" height="315" src="https://youtu.be/embed/jXz8Hmq_nqk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jXz8Hmq_nqk" title="Rent a Scooter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ###  B. Testing Protocol
@@ -75,3 +75,5 @@ How might you conduct your testing procedure safely during a pandemic?
   Our testing procedure would be safe as it would afford social distancing because the testing process would be conducted online. Considering we would offer the survey provided for feedback online after the user has completed the testing needed for our research. 
 
 ###  C. Final Summary Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kd6ihMCDjdQ" title="Final Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
