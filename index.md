@@ -14,6 +14,7 @@ The tabs help make the navigation predictable. Whichever one is clicked will be 
 
 **Resources:**
 -https://www.esri.com/arcgis-blog/products/product/mapping/design-principles-for-cartography/#:~:text=Cartographers%20apply%20many%20design%20principles%20when%20compiling%20their,content%20in%20the%20map%20and%20on%20the%20page.
+
 -https://uxplanet.org/golden-rules-of-user-interface-design-19282aeb06b/
 
 **Prototype 2:**
