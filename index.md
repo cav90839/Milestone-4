@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+# Milestone-4: Prototyping and Testing
 
-You can use the [editor on GitHub](https://github.com/cav90839/Milestone-4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###  A. High-Fidelity Prototype
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fup36YEI9FGoutpSoW54raK%2FAthena-(Maps)%3Fnode-id%3D498%253A284%26scaling%3Dscale-down%26page-id%3D448%253A239%26starting-point-node-id%3D498%253A284" allowfullscreen></iframe>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FZJIMQt7qPa4J7IyRbIdo1U%2FCommute-Time-Selection%3Fnode-id%3D541%253A7%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D541%253A69" allowfullscreen></iframe>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDXOwq6ILJPrYlds5oiwSXi%2FRent-a-Scooter-MockUp%3Fnode-id%3D101%253A59%26scaling%3Dmin-zoom%26page-id%3D5%253A32%26starting-point-node-id%3D101%253A59" allowfullscreen></iframe>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<iframe width="560" height="315" src="https://youtu.be/CRii6Jzr-lY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<iframe width="560" height="315" src="https://youtu.be/kprcl29nk_A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+<iframe width="560" height="315" src="https://youtu.be/jXz8Hmq_nqk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cav90839/Milestone-4/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+###  B. Testing Protocol
+  A user testing protocol describes the objective(s), methodology, and organization of a user test; it essentially describes how to administer a user test and how the data can be used to answer your research question. For this part of the milestone, you should describe your protocol by answering the following questions:
+What is your research question? It should be simple, falsifiable, and related to the effectiveness of your design in solving your problem of study.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Our research question is do our designs help improve the students’ experience for getting to class on time?
+
+  As students are coming back to classes in person, there is higher congestion of students who are taking the buses and commuting to class. Based on our research question, we proposed three different prototypes that could be tools for students to improve their understanding of schedules and adding options for making commuting to class easier. We focused on registration for two prototypes where the user will be able to get a better understanding of their schedules and have options to make their schedule based on adequate commuting times (if there is enough time in between classes). Our third design focused more outside of registration that gives students alternative ways to travel to classes besides walking and buses. 
+  
+Based on your research question, what methodology will you use for testing and why? Some examples include:
+Observation / Participant Observation.
+Surveys.
+Interviews.
+Focus Groups.
+Experiments.
+Secondary Data Analysis / Archival Study.
+Mixed Methods (combination of some of the above)
+
+Our team’s methods for conducting research will be surveys, focus groups, interviews, and a participant observation study. 
+
+The surveys will be asking users to rate their experience & the ease of use on a scale from 1-5. 
+
+Answer Questions on a 1-5 scale (1- not at all, 2-not really, 3- neutral, 4- a little 5- a significant amount)
+
+How was navigating through the prototype?
+How well did the prototype improve your understanding of your schedule?
+How well did the prototype help you make your schedule?
+Did the prototype make you feel more comfortable for class before starting?
+
+  For focus groups, we will get a group of student participants. One focus group of students on-campus & the other students off-campus. Each contains an even number of underclassmen from each grade level. They would at first be shown the prototypes without any description of what they are used for in order for us to have an unbiased answer from each participant. The participants would then be asked to write down what they believe they think the prototype may be. After we will explain to them what the benefits the prototype is used for. The participants would then be asked if there are any other benefits they think the prototype brings to the user & any design changes they think will help the user. 
+  
+  
+  Participant observation study 
+  Observation based study would have to be strictly for freshmen during their first registration. We would ask the advisors to help us with our study because they would be observing the student register for the first time. We would ask the student if they would like to be a part of the testing procedure for our research. Once we have their consent, we would inform the advisor to tell the students about the prototypes we added to Athena,  and the advisors could observe the student using our prototype firsthand. Afterwards, we could give the advisors a questionnaire to answer based on their observations of the student. The questionnaire would ask questions based on a 1-5 rating on how easily did the student navigate through the prototype, how effective was the prototype in helping the student understand his or her schedule,, etc. 
+  
+  
+  Based on the methodology you chose in (B.1), describe your testing procedure. Regardless of methodology, your testing procedure needs to involve your design prototype from (A). Also, be sure to incorporate answers to the following questions in your description:
+
+
+What is your specific plan to deal with informed consent?
+  In terms of informed consent, for the focus group, we made sure that the potential testers signed a contract disclosing what would be involved in the prototype testing. Letting them have a clear idea of what to expect as well as providing them an opt-out possibility. This opt-out would allow users to continue their participation in the experiment but we would no longer use their information in our published research. 
+
+dawd
+What specific data will you collect and how will it be organized?
+  The data we would be collecting would be the feedback from the focus groups. Essentially how they rated the usability of the product could be measured in the form of a scale from 1 - 5.
+
+
+What type of analysis do you intend to to perform with the study data, and how will that analysis help answer your research question from (B.1)?
+  Based on the number of testers who responded positively compared to negative feedback received by our prototypes and discussed how these features or apps benefited their overall experience with commuting from one class to another. We would analyze those results and compare them to feedback provided on to the current class registration process and note if the feedback received on the prototypes solved any criticisms received on the original method of class registration. Thus helping us come to a conclusion on whether our design helped improve student’s experience for getting from one class to another on time.
+
+
+How might you conduct your testing procedure safely during a pandemic?
+  Our testing procedure would be safe as it would afford social distancing because the testing process would be conducted online. Considering we would offer the survey provided for feedback online after the user has completed the testing needed for our research. 
+
+###  C. Final Summary Video
