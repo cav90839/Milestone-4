@@ -76,13 +76,14 @@ We decided to connect our application through UGA's single-sign on service to ma
 
 ###  B. Testing Protocol
   A user testing protocol describes the objective(s), methodology, and organization of a user test; it essentially describes how to administer a user test and how the data can be used to answer your research question. For this part of the milestone, you should describe your protocol by answering the following questions:
-What is your research question? It should be simple, falsifiable, and related to the effectiveness of your design in solving your problem of study.
 
-Our research question is do our designs help improve the students’ experience for getting to class on time?
+**What is your research question? It should be simple, falsifiable, and related to the effectiveness of your design in solving your problem of study.**
+
+**Our research question**: do our designs help improve the students’ experience for getting to class on time?
 
   As students are coming back to classes in person, there is higher congestion of students who are taking the buses and commuting to class. Based on our research question, we proposed three different prototypes that could be tools for students to improve their understanding of schedules and adding options for making commuting to class easier. We focused on registration for two prototypes where the user will be able to get a better understanding of their schedules and have options to make their schedule based on adequate commuting times (if there is enough time in between classes). Our third design focused more outside of registration that gives students alternative ways to travel to classes besides walking and buses. 
   
-Based on your research question, what methodology will you use for testing and why? Some examples include:
+**Based on your research question, what methodology will you use for testing and why? Some examples include:**
 Observation / Participant Observation.
 Surveys.
 Interviews.
@@ -102,29 +103,29 @@ How well did the prototype improve your understanding of your schedule?
 How well did the prototype help you make your schedule?
 Did the prototype make you feel more comfortable for class before starting?
 
-  For focus groups, we will get a group of student participants. One focus group of students on-campus & the other students off-campus. Each contains an even number of underclassmen from each grade level. They would at first be shown the prototypes without any description of what they are used for in order for us to have an unbiased answer from each participant. The participants would then be asked to write down what they believe they think the prototype may be. After we will explain to them what the benefits the prototype is used for. The participants would then be asked if there are any other benefits they think the prototype brings to the user & any design changes they think will help the user. 
+  **For focus groups**, we will get a group of student participants. One focus group of students on-campus & the other students off-campus. Each contains an even number of underclassmen from each grade level. They would at first be shown the prototypes without any description of what they are used for in order for us to have an unbiased answer from each participant. The participants would then be asked to write down what they believe they think the prototype may be. After we will explain to them what the benefits the prototype is used for. The participants would then be asked if there are any other benefits they think the prototype brings to the user & any design changes they think will help the user. 
   
   
-  Participant observation study 
+  **Participant observation study** 
   Observation based study would have to be strictly for freshmen during their first registration. We would ask the advisors to help us with our study because they would be observing the student register for the first time. We would ask the student if they would like to be a part of the testing procedure for our research. Once we have their consent, we would inform the advisor to tell the students about the prototypes we added to Athena,  and the advisors could observe the student using our prototype firsthand. Afterwards, we could give the advisors a questionnaire to answer based on their observations of the student. The questionnaire would ask questions based on a 1-5 rating on how easily did the student navigate through the prototype, how effective was the prototype in helping the student understand his or her schedule,, etc. 
   
   
-  Based on the methodology you chose in (B.1), describe your testing procedure. Regardless of methodology, your testing procedure needs to involve your design prototype from (A). Also, be sure to incorporate answers to the following questions in your description:
+ **Based on the methodology you chose in (B.1), describe your testing procedure. Regardless of methodology, your testing procedure needs to involve your design prototype from (A). Also, be sure to incorporate answers to the following questions in your description:**
 
 
-What is your specific plan to deal with informed consent?
+**What is your specific plan to deal with informed consent?**
   In terms of informed consent, for the focus group, we made sure that the potential testers signed a contract disclosing what would be involved in the prototype testing. Letting them have a clear idea of what to expect as well as providing them an opt-out possibility. This opt-out would allow users to continue their participation in the experiment but we would no longer use their information in our published research. 
 
 
-What specific data will you collect and how will it be organized?
+**What specific data will you collect and how will it be organized?**
   The data we would be collecting would be the feedback from the focus groups. Essentially how they rated the usability of the product could be measured in the form of a scale from 1 - 5.
 
 
-What type of analysis do you intend to to perform with the study data, and how will that analysis help answer your research question from (B.1)?
+**What type of analysis do you intend to to perform with the study data, and how will that analysis help answer your research question from (B.1)?**
   Based on the number of testers who responded positively compared to negative feedback received by our prototypes and discussed how these features or apps benefited their overall experience with commuting from one class to another. We would analyze those results and compare them to feedback provided on to the current class registration process and note if the feedback received on the prototypes solved any criticisms received on the original method of class registration. Thus helping us come to a conclusion on whether our design helped improve student’s experience for getting from one class to another on time.
 
 
-How might you conduct your testing procedure safely during a pandemic?
+**How might you conduct your testing procedure safely during a pandemic?**
   Our testing procedure would be safe as it would afford social distancing because the testing process would be conducted online. Considering we would offer the survey provided for feedback online after the user has completed the testing needed for our research. 
 
 ###  C. Final Summary Video
