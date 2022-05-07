@@ -8,6 +8,7 @@
 
 User Story: As a college student, I want to know where my classes are located so I can map out how to get to them. 
 
+
 The tabs help make the navigation predictable. Whichever one is clicked will be highlighted in blue contrasting to signify to user the day chosen is mapped out. The map key will change based on your class schedules for that day, but always displaying the travel time. These features are a major idea added that were not thought about when creating our low fidelity wireframe. We used a zoom in & zoom out button. The image on the left shows a zoomed out feature signified by the sign negative on the button. The zoom out lets the student to see a better perspective of their route for classes. The image on the right is when a user presses zoom in button signified by the plus sign. The student is now viewing closer what their class building is close too. The features we added to our prototype help afford & signify to user how to operate this new feature for registration.
 
 
@@ -18,13 +19,44 @@ The tabs help make the navigation predictable. Whichever one is clicked will be 
 User Story: As a college student, I want to be able to view my travel time between classes so that my schedule is as efficient as possible.
 
 
+We wanted tab's for each section of the class registration process that highlights a blueish tint to showcase it has been selected. We also wanted the user to be able to have the freedom to enter a preferred commute time granting flexibility to the user and their schedule. A save button that yields direct communication between the user and the prototype letting them know that their preferred commute time is saved and will be used throughout the rest of the class registration process. If the time is not capable of being implemented into any schedule at the university there will be a bright red error message showing the user in a simple and concise way that they need to change their preferred commute time in order for it to be considered in the rest of the registration process.
+
+
+**Resources:**
+
+-https://uxplanet.org/button-ux-design-best-practices-types-and-states-647cf4ae0fc6
+
+-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.948.5949&rep=rep1&type=pdf
+
+-https://uxplanet.org/golden-rules-of-user-interface-design-19282aeb06b/
+
+-https://givegoodux.com/feedback-5-principles-interaction-design-supercharge-ui-5-5/
+
 
 **Prototype 3:**
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="500" height="1000" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDXOwq6ILJPrYlds5oiwSXi%2FRent-a-Scooter-MockUp%3Fnode-id%3D101%253A59%26scaling%3Dmin-zoom%26page-id%3D5%253A32%26starting-point-node-id%3D101%253A59" allowfullscreen></iframe>
 
 User Story: As a college student, I want to make a schedule where I don’t have to take the bus because the bus system is unreliable.
 
+
 We decided to connect our application through UGA's single-sign on service to make navigating through the app more simple. By connecting, we were able to get rid of the login and sign up features because they would already be incorporated. We were also able to get rid of the contact page and About Us page because those would be accessible through UGA. Finally, we added a confirmation page so that the user can be aware that his or her rental went through and is available. This will also help with any problems with rentals because users can pull up their confirmation page to prove that they actually scheduled a scooter or bike.
+
+
+**Resources:**
+
+-https://uxdesign.cc/8-rules-of-mobile-design-1b8d9936c241
+
+-https://www.avail.co/education/resources/the-landlords-ultimate-guide-to-rental-applications
+
+-https://actionfigure.ai/blog/a-scooter-revolution-why-universities-should-embrace-shared-mobility-programs-parking-sustainable-commuting--options/#:~:text=Scooters%20provide%20a%20reliable%20and,money%20of%20cars%20and%20parking.
+
+-https://www.nngroup.com/articles/contact-us-pages/
+
+-https://www.nngroup.com/articles/about-us-information-on-websites/
+
+-https://usa.streetsblog.org/2019/08/07/uberlyft-responsible-for-a-large-share-of-traffic/
+
+-https://www.tigertv.tv/news/safety-concerns-with-uber-cause-students-to-take-extra-measures/article_cc360034-9fb8-11ec-bd1e-530e4b3f740b.html
 
 
 **Demo of Prototype 1:**
