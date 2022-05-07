@@ -12,13 +12,13 @@
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDXOwq6ILJPrYlds5oiwSXi%2FRent-a-Scooter-MockUp%3Fnode-id%3D101%253A59%26scaling%3Dmin-zoom%26page-id%3D5%253A32%26starting-point-node-id%3D101%253A59" allowfullscreen></iframe>
 
 **Demo of Prototype 1:
-<iframe width="560" height="315" src="https://youtu.be/CRii6Jzr-lY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/embed/CRii6Jzr-lY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Demo of Prototype 2:
-<iframe width="560" height="315" src="https://youtu.be/kprcl29nk_A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/embed/kprcl29nk_A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Demo of Prototype 3:
-<iframe width="560" height="315" src="https://youtu.be/jXz8Hmq_nqk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/embed/jXz8Hmq_nqk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ###  B. Testing Protocol
