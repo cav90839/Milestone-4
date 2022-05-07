@@ -6,7 +6,7 @@
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fup36YEI9FGoutpSoW54raK%2FAthena-(Maps)%3Fnode-id%3D498%253A284%26scaling%3Dscale-down%26page-id%3D448%253A239%26starting-point-node-id%3D498%253A284" allowfullscreen></iframe>
 
 
-User Story: As a college student, I want to know where my classes are located so I can map out how to get to them.
+User Story: As a college student, I want to know where my classes are located so I can map out how to get to them. The tabs help make the navigation predictable. Whichever one is clicked will be highlighted in blue contrasting to signify to user the day chosen is mapped out. The map key will change based on your class schedules for that day, but always displaying the travel time. These features are a major idea added that were not thought about when creating our low fidelity wireframe. We used a zoom in & zoom out button. The image on the left shows a zoomed out feature signified by the sign negative on the button. The zoom out lets the student to see a better perspective of their route for classes. The image on the right is when a user presses zoom in button signified by the plus sign. The student is now viewing closer what their class building is close too. The features we added to our prototype help afford & signify to user how to operate this new feature for registration.
 
 
 **Prototype 2:**
@@ -19,7 +19,7 @@ User Story: As a college student, I want to be able to view my travel time betwe
 **Prototype 3:**
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="500" height="1000" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDXOwq6ILJPrYlds5oiwSXi%2FRent-a-Scooter-MockUp%3Fnode-id%3D101%253A59%26scaling%3Dmin-zoom%26page-id%3D5%253A32%26starting-point-node-id%3D101%253A59" allowfullscreen></iframe>
 
-User Story: As a college student, I want to make a schedule where I don’t have to take the bus because the bus system is unreliable.
+User Story: As a college student, I want to make a schedule where I don’t have to take the bus because the bus system is unreliable. We decided to connect our application through UGA's single-sign on service to make navigating through the app more simple. By connecting, we were able to get rid of the login and sign up features because they would already be incorporated. We were also able to get rid of the contact page and About Us page because those would be accessible through UGA. Finally, we added a confirmation page so that the user can be aware that his or her rental went through and is available. This will also help with any problems with rentals because users can pull up their confirmation page to prove that they actually scheduled a scooter or bike.
 
 
 **Demo of Prototype 1:**
@@ -73,7 +73,7 @@ Did the prototype make you feel more comfortable for class before starting?
 What is your specific plan to deal with informed consent?
   In terms of informed consent, for the focus group, we made sure that the potential testers signed a contract disclosing what would be involved in the prototype testing. Letting them have a clear idea of what to expect as well as providing them an opt-out possibility. This opt-out would allow users to continue their participation in the experiment but we would no longer use their information in our published research. 
 
-dawd
+
 What specific data will you collect and how will it be organized?
   The data we would be collecting would be the feedback from the focus groups. Essentially how they rated the usability of the product could be measured in the form of a scale from 1 - 5.
 
