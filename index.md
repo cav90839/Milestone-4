@@ -12,6 +12,10 @@ User Story: As a college student, I want to know where my classes are located so
 The tabs help make the navigation predictable. Whichever one is clicked will be highlighted in blue contrasting to signify to user the day chosen is mapped out. The map key will change based on your class schedules for that day, but always displaying the travel time. These features are a major idea added that were not thought about when creating our low fidelity wireframe. We used a zoom in & zoom out button. The image on the left shows a zoomed out feature signified by the sign negative on the button. The zoom out lets the student to see a better perspective of their route for classes. The image on the right is when a user presses zoom in button signified by the plus sign. The student is now viewing closer what their class building is close too. The features we added to our prototype help afford & signify to user how to operate this new feature for registration.
 
 
+**Resources:**
+-https://www.esri.com/arcgis-blog/products/product/mapping/design-principles-for-cartography/#:~:text=Cartographers%20apply%20many%20design%20principles%20when%20compiling%20their,content%20in%20the%20map%20and%20on%20the%20page.
+-https://uxplanet.org/golden-rules-of-user-interface-design-19282aeb06b/
+
 **Prototype 2:**
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FZJIMQt7qPa4J7IyRbIdo1U%2FCommute-Time-Selection%3Fnode-id%3D541%253A7%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D541%253A69" allowfullscreen></iframe>
 
