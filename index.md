@@ -3,7 +3,7 @@
 ###  A. High-Fidelity Prototype
 
 **Prototype 1:**
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fup36YEI9FGoutpSoW54raK%2FAthena-(Maps)%3Fnode-id%3D498%253A284%26scaling%3Dscale-down%26page-id%3D448%253A239%26starting-point-node-id%3D498%253A284" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="500" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fup36YEI9FGoutpSoW54raK%2FAthena-(Maps)%3Fnode-id%3D498%253A284%26scaling%3Dscale-down%26page-id%3D448%253A239%26starting-point-node-id%3D498%253A284" allowfullscreen></iframe>
 
 
 User Story: As a college student, I want to know where my classes are located so I can map out how to get to them. 
