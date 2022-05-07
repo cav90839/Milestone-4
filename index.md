@@ -98,10 +98,10 @@ The surveys will be asking users to rate their experience & the ease of use on a
 
 Answer Questions on a 1-5 scale (1- not at all, 2-not really, 3- neutral, 4- a little 5- a significant amount)
 
-How was navigating through the prototype?
-How well did the prototype improve your understanding of your schedule?
-How well did the prototype help you make your schedule?
-Did the prototype make you feel more comfortable for class before starting?
+How was navigating through the prototype?<br />
+How well did the prototype improve your understanding of your schedule?<br />
+How well did the prototype help you make your schedule?<br />
+Did the prototype make you feel more comfortable for class before starting?<br />
 
   **For focus groups**, we will get a group of student participants. One focus group of students on-campus & the other students off-campus. Each contains an even number of underclassmen from each grade level. They would at first be shown the prototypes without any description of what they are used for in order for us to have an unbiased answer from each participant. The participants would then be asked to write down what they believe they think the prototype may be. After we will explain to them what the benefits the prototype is used for. The participants would then be asked if there are any other benefits they think the prototype brings to the user & any design changes they think will help the user. 
   
